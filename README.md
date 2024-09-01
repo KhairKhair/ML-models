@@ -7,3 +7,4 @@ The included models (until now) are:
 4. Kmeans and Kmeans++ on the attached picture. Hierarchical Clustering on the attached dataset and visualized.
 5. Neural Network implemented using Numpy is trained on MNIST. Several different activation functions are implemented and used. 
 6. GoogleNet is implemented using Pytorch based on the famous paper. The CIFAR10 dataset is prepared and the network is trained on it. 
+7. Using Pytorch, GAN is implemented and trained on a dataset and several pictures are generated. The loss of the Generator and Discriminator is visualized and contrasted.
